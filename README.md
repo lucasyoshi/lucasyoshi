@@ -1,6 +1,6 @@
 # **Hi there, I'm Lucas Hashimoto! 👋 🤩** 
 
-I'm a software developer student passionate about coding and learning new technologies. I'm constantly seeking ways to improve my skills and build meaningful projects. I’m also going through a career change from Civil Engineer.
+I'm a software developer student passionate about coding and learning new technologies. I'm constantly seeking ways to improve my skills and build meaningful projects. I’m also going through a career change from Civil Engineer to the IT industry, and I am excited to the challenges this career path has to offer.
 
 ## **🔧 Technologies & Tools**
 ### [Link for all the badges](https://github.com/Ileriayo/markdown-badges)
