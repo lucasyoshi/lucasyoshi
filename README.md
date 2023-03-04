@@ -31,6 +31,12 @@ I'm a software developer student passionate about coding and learning new techno
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+## **📈 GitHub Stats**
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasyoshi&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasyoshi&layout=compact&theme=transparent)](https://github.com/lucasyoshi/)
+
+
 ## **🚀 Projects - Work in progress...**
 
 - **[Project 1](https://github.com/user/project1)** - Description of project 1
